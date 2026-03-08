@@ -42,8 +42,12 @@ The app allows users to create an account, add books with reviews, view other us
 ![Create Account](screenshots/create-account-screen.png)
 
 ### Book Feed
+Book Feed (With Cover Image)
 
 ![Feed](screenshots/feed-screen.png)
+
+Book Feed (Without Cover Image)
+Books without an image automatically display a placeholder using the first letter of the book title.
 
 ![Feed](screenshots/feed-screen-without-image.png)
 
