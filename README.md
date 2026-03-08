@@ -35,11 +35,11 @@ The app allows users to create an account, add books with reviews, view other us
 
 ### Login Screen
 
-![Login](screenshots/loginPage.png)
+![Login](screenshots/login-screen.png)
 
 ### Create Account
 
-![Create Account](screenshots/createAccountPage.png)
+![Create Account](screenshots/create-account-screen.png)
 
 ### Book Feed
 
